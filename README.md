@@ -1,1 +1,1 @@
-https://mr-pofa.github.io/week-day
+https://is-HYM.github.io/week-day
