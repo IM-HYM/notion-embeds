@@ -1,2 +1,2 @@
-# https://is-HYM.github.io/buttons.html
-# https://is-HYM.github.io/week_day.html
+# https://is-HYM.github.io/notion-embeds/buttons.html
+# https://is-HYM.github.io/notion-embeds/week_day.html
