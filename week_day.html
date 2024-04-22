@@ -50,7 +50,7 @@ function getCurrentWeek() {
   var diff = now - startOfYear;
   var oneWeek = 604800000; // عدد الثواني في أسبوع واحد
   var weekNumber = Math.floor(diff / oneWeek);
-  return weekNumber;
+  return weekNumber+1;
 }
 
 // يعرض اسم اليوم الحالي
